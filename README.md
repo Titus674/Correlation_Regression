@@ -22,8 +22,8 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 ```
 
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : TITUS RATNA KUMAR KARIVELLA
+Register number : 24002273
 
 ```
 ```
